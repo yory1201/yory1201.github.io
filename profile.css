@@ -1,0 +1,17 @@
+body{
+  background-image: url(bkg.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1{
+  color: red;
+}
+img{
+  height: 100px;
+  transform: rotate(90deg);
+  margin-top: 50px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: green;
+}
